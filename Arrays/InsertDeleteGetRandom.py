@@ -1,3 +1,8 @@
+"""
+Ref: https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/1926985665
+Intuition: Can I insert, delete in O(1) time?
+"""
+
 import random
 
 class RandomizedSet:
